@@ -1,0 +1,3 @@
+/Users/admin/Code/CT/calc_ct/cmake-build-debug/CMakeFiles/B3_21.dir
+/Users/admin/Code/CT/calc_ct/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Code/CT/calc_ct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
